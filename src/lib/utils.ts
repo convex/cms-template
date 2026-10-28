@@ -41,7 +41,7 @@ export function showTimeAgoShort(created: number) {
 }
 
 /**
- * https://github.com/get-convex/convex-helpers/blob/main/src/hooks/useStableQuery.ts
+ * https://github.com/convex/convex-helpers/blob/main/src/hooks/useStableQuery.ts
  * Drop-in replacement for useQuery intended to be used with a parametrized query.
  * Unlike useQuery, useStableQuery does not return undefined while loading new
  * data when the query arguments change, but instead will continue to return
