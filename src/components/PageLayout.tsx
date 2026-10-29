@@ -9,7 +9,7 @@ import { buttonVariants } from "./ui/button";
 function StarUsLink() {
   return (
     <a
-      href="https://github.com/get-convex/cms-template"
+      href="https://github.com/convex/cms-template"
       target="_blank"
       rel="noreferrer"
       className={cn(
