@@ -29,7 +29,7 @@ const POSTS = [
     content: ` "Convex Auth is a library for implementing authentication using your Convex backend.
 
 Check it out [in the Convex docs
-](https: //docs.convex.dev/auth/convex-auth) to get started or play with the [example demo](https://labs.convex.dev/auth-example) ([source](https://github.com/get-convex/convex-auth-example)).
+](https: //docs.convex.dev/auth/convex-auth) to get started or play with the [example demo](https://labs.convex.dev/auth-example) ([source](https://github.com/convex/convex-auth-example)).
 
 *This article is based on the [launch video
 ](https: //convex.dev/auth).*
